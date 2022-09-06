@@ -1,0 +1,22 @@
+[2022-08-26 19:03:35,971] - WARNING - Python-dotenv could not parse statement starting at line 6
+[2022-08-26 19:03:36,195] - INFO - the browser is chrome
+[2022-08-26 19:03:36,195] - INFO - 
+
+[2022-08-26 19:03:36,196] - INFO - ====== WebDriver manager ======
+[2022-08-26 19:03:36,463] - INFO - Current google-chrome version is 104.0.5112
+[2022-08-26 19:03:36,464] - INFO - Get LATEST driver version for 104.0.5112
+[2022-08-26 19:03:37,669] - INFO - Driver [C:\Users\pradhp\.wdm\drivers\chromedriver\win32\104.0.5112.79\chromedriver.exe] found in cache
+[2022-08-26 19:03:40,680] - INFO - Test Execution is started with chrome browser ...
+[2022-08-26 19:03:40,681] - INFO - STARTED Test 'test_launch_zara_website_navigate_to_man_section'
+[2022-08-26 19:03:46,537] - INFO - Successfully clicked on:
+[2022-08-26 19:03:46,557] - INFO - WebElement locator  found
+[2022-08-26 19:03:47,059] - INFO - Successfully clicked on:
+[2022-08-26 19:03:47,107] - INFO - WebElement locator  found
+[2022-08-26 19:03:47,597] - INFO - Successfully clicked on:
+[2022-08-26 19:03:48,593] - INFO - Successfully clicked on:
+[2022-08-26 19:03:48,737] - INFO - WebElement locator  found
+[2022-08-26 19:03:50,300] - INFO - Successfully clicked on:
+[2022-08-26 19:03:51,215] - INFO - Successfully clicked on:
+[2022-08-26 19:03:51,224] - INFO - WebElement locator  found
+[2022-08-26 19:03:51,990] - INFO - Successfully clicked on:
+[2022-08-26 19:03:52,265] - INFO - Successfully clicked on:
